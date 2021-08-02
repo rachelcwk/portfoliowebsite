@@ -194,9 +194,9 @@ img {
   margin-right: auto;
 }
 
-.p1, .p2, .p3 {
+.p1, .p2 {
   text-align: center;
-  font-size: 1.0em;
+  font-size: 1.4em;
   font-family: Effra light, sans-serif;
   width: 350px;
   letter-spacing: 2px;
@@ -211,9 +211,9 @@ img {
 }
 
 @media screen and (max-width: 600px) {
-  .p1, .p2, .p3 {
+  .p1, .p2 {
     text-align: center;
-    font-size: .6em;
+    font-size: .8em;
     font-family: Effra light, sans-serif;
     width: 200px;
     letter-spacing: 1px;
